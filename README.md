@@ -1,7 +1,8 @@
 <h3> Olá!  Eu sou a Raisa. </h3> 
-Sou biomédica e atualmente estou em transição de carreira para a área de tecnologia.
 
-🌱 Estou iniciando minha transição através do Bootcamp Philips Fullstack Developer I You Are You da DIO.
+ Sou biomédica e atualmente estou em transição de carreira para a área de tecnologia. 🌱💻📚
+
+ Estou iniciando minha transição através do Bootcamp Philips Fullstack Developer I You Are You da DIO.
 
   <h3>Tecnologias que estou estudando atualmente:</h3>
  
