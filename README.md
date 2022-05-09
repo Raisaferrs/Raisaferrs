@@ -14,8 +14,8 @@
   
 <div>
   <a href="https://github.com/Raisaferrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raisaferrs&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raisaferrs&layout=compact&langs_count=16&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raisaferrs&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raisaferrs&layout=compact&langs_count=16&theme=swift"/>
 </div>
 
   ##
