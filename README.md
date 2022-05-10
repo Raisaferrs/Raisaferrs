@@ -1,4 +1,4 @@
-## Olá!  Eu sou a Raisa. 👋
+# Olá!  Eu sou a Raisa. 👋
 
  Sou biomédica e atualmente estou em transição de carreira para a área de tecnologia. 🌱💻📚  
  Estou iniciando meus estudos através do Bootcamp Philips Fullstack Developer I You Are You da DIO.
